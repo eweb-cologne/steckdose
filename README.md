@@ -1,1 +1,3 @@
 # steckdose
+
+Siehe Wiki
